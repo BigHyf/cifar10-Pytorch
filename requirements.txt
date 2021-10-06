@@ -1,0 +1,3 @@
+torchvision==0.9.1+cu111
+torch==1.8.1+cu111
+torchsummary==1.5.1
