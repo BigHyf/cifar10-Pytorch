@@ -113,10 +113,10 @@ model list:
 |    vgg     |    86%   |
 |  resnet18  |    83%   |
 |  resnet34  |    84%   |
-|  resnet50  |    83%    |
-| resnet101  |    0%   |
-| GoogLeNet  |    0%   |
-|DenseNet121 |    0%   |
+|  resnet50  |    83%   |
+| resnet101  |    83%   |
+| GoogLeNet  |    86%   |
+|DenseNet121 |    87%   |
 |  MobileNet |    76%   |
 |MobileNetv2 |    82%   |
 ### Detailed results and analysis on my own model
