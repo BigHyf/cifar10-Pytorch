@@ -113,12 +113,12 @@ model list:
 |    vgg     |    86%   |
 |  resnet18  |    83%   |
 |  resnet34  |    84%   |
-|  resnet50  |    0%    |
-| resnet101  |    84%   |
-| GoogLeNet  |    84%   |
-|DenseNet121 |    84%   |
-|  MobileNet |    84%   |
-|MobileNetv2 |    84%   |
+|  resnet50  |    83%    |
+| resnet101  |    0%   |
+| GoogLeNet  |    0%   |
+|DenseNet121 |    0%   |
+|  MobileNet |    76%   |
+|MobileNetv2 |    82%   |
 ### Detailed results and analysis on my own model
 First, here are the details of the parameters:
 * Batch_size = 64
