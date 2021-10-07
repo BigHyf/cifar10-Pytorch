@@ -30,6 +30,7 @@ HW1 for ZJU-CST Artificial Intelligence Safety
 ├── scripts/
 ├── state/
 ├── main.py
+├── test.py
 └── train.py
 ```
 
