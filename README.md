@@ -109,7 +109,16 @@ model list:
 
 | Model Name | Accuracy |
 | ---------- | -------- |
-|  my_model  |    85%   |
+|  my_model  |    86%   |
+|    vgg     |    86%   |
+|  resnet18  |    83%   |
+|  resnet34  |    84%   |
+|  resnet50  |    0%    |
+| resnet101  |    84%   |
+| GoogLeNet  |    84%   |
+|DenseNet121 |    84%   |
+|  MobileNet |    84%   |
+|MobileNetv2 |    84%   |
 ### Detailed results and analysis on my own model
 First, here are the details of the parameters:
 * Batch_size = 64
