@@ -26,6 +26,9 @@ HW1 for ZJU-CST Artificial Intelligence Safety
 │   └── vgg.py
 ├── utils
 │   └── log.py
+├── images
+│   ├── train_accuracy.png
+│   └── train_loss.png
 ├── log/
 ├── scripts/
 ├── state/
