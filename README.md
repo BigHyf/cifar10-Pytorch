@@ -20,7 +20,7 @@ HW1 for ZJU-CST Artificial Intelligence Safety
 │   ├── googlenet.py
 │   ├── lenet.py
 │   ├── mobilenet.py
-│   ├── monilenev2.py
+│   ├── monilenetv2.py
 │   ├── model.py
 │   ├── resnet.py
 │   └── vgg.py
