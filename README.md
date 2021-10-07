@@ -118,5 +118,6 @@ First, here are the details of the parameters:
 * optimizer: SGD, Adam <br>
 
 Then,Below is a diagram of the training process: <br>
-* On the left is the train_ACC diagram, the horizontal coordinate is epoch, and the vertical coordinate is accuracy; <br>
-* On the right is the Loss diagram, the horizontal coordinate is EPOCH and the vertical coordinate is Loss. <br>
+* the first one is the train_accuracy diagram, the horizontal coordinate is epoch, and the vertical coordinate is accuracy; <br>
+* the second one is the train_Loss diagram, the horizontal coordinate is EPOCH and the vertical coordinate is Loss. <br>
+![image](images/train_accuracy.png)
